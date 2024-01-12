@@ -1,0 +1,14 @@
+/* styles.css */
+/* @font-face {
+    font-family: 'JalnanGothic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff') format('woff');
+    font-weight: 10;
+    font-style: normal;
+} */
+
+.navbar {
+    font-family: "Poppins", sans-serif; /* 폰트 적용 */
+    /* 기타 스타일링 추가 */
+}
+
+

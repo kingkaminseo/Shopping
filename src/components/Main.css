@@ -1,0 +1,71 @@
+/* Main.css */
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  .main-container {
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 60px 20px;
+    border-radius: 0 0 10px 10px;
+  }
+  
+  .title {
+    font-size: 3em;
+    font-weight: 800;
+  }
+  
+  .subtitle {
+    font-size: 1.5em;
+    color: #ddd;
+  }
+  
+  .store-section,
+  .features-section,
+  .promotion-section,
+  .footer {
+    margin-bottom: 30px;
+  }
+  
+  .feature-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature {
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .promotion-section {
+    background-color: #007bff;
+    color: #fff;
+    padding: 40px 20px;
+    border-radius: 10px;
+  }
+  
+  .footer {
+    padding: 20px;
+    background: #eee;
+    font-size: 0.8em;
+    border-radius: 10px;
+  }
+  

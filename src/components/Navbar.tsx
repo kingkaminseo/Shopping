@@ -28,7 +28,7 @@ export function Navbar() {
                 <NavDropdown.Item href="#">티비이전 설치</NavDropdown.Item>
                 <NavDropdown.Item href="#">LED시계 설치</NavDropdown.Item>
             </NavDropdown>
-            <Button variant="primary" onClick={handleToggle}>
+            <Button variant="" onClick={handleToggle}>
                 메뉴
             </Button>
 
@@ -38,7 +38,7 @@ export function Navbar() {
                     <Offcanvas.Title>Offcanvas right</Offcanvas.Title>
                 </Offcanvas.Header>
                 <Offcanvas.Body>
-                <NavDropdown.Item href="#">벽걸이티비설치</NavDropdown.Item>
+                <NavDropdown.Item href="/about">벽걸이티비설치</NavDropdown.Item>
                 <NavDropdown.Item href="#">무타공 티비설치</NavDropdown.Item>
                 <NavDropdown.Item href="#">천정형 티비설치</NavDropdown.Item>
                 <NavDropdown.Item href="#">티비이전 설치</NavDropdown.Item>
